@@ -1,0 +1,2 @@
+ID# ATTRIBUTE_NAME      FLAG   VALUE WORST THRESH TYPE     UPDATED WHEN_FAILED RAW_VALUE
+173 Wear_Leveling_Count	0x0033 039   039   000    Pre-fail Always      -       1833
